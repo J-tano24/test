@@ -5,3 +5,4 @@ PythonHello!
 Python
 PHP
 
+アイウエオ
